@@ -1,0 +1,87 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "Andrea Grandi",
+	"icon": "https://micro.blog/andreagrandi/avatar.jpg",
+	"home_page_url": "https://micro.andreagrandi.it/",
+	"feed_url": "https://micro.andreagrandi.it/feed.json",
+	"items": [
+		
+			{
+				"id": "http://andreagrandi.micro.blog/2025/01/11/reading-stuff-and-training-dog/",
+				"title": "Reading stuff and training dog",
+				"content_html": "<p>Trying to brush up a couple of things today:</p>\n<ul>\n<li>Watching a few existing talks about a subject I would like to <strong>give a talk</strong> about (no spoilers yet!)</li>\n<li>Reading documentation about <strong>VSCode</strong> extensions for an idea I have (at least I found a good name!)</li>\n</ul>\n<p>All of this while I try to relax after a nice day where I also <strong>trained my dog</strong> a little bit 🐶</p>\n",
+				"content_text": "Trying to brush up a couple of things today:\r\n\r\n- Watching a few existing talks about a subject I would like to **give a talk** about (no spoilers yet!)\r\n- Reading documentation about **VSCode** extensions for an idea I have (at least I found a good name!)\r\n\r\nAll of this while I try to relax after a nice day where I also **trained my dog** a little bit 🐶\n",
+				"date_published": "2025-01-11T18:06:13+01:00",
+				"url": "https://micro.andreagrandi.it/2025/01/11/reading-stuff-and-training-dog/",
+				"tags": ["Personal","Tech"]
+			},
+			{
+				"id": "http://andreagrandi.micro.blog/2025/01/10/github-copilot/",
+				"title": "GitHub Copilot",
+				"content_html": "<p>In a future iteration of GitHub Copilot I expect it to check the errors in CI and automatically propose a fix.</p>\n<p>I just did this manually: copy pasting the error back, asking for a fix, the fix was correct, I made the commit, push etc&hellip;</p>\n<p>It could be automated with me still in charge to dismiss or accept.</p>\n",
+				"content_text": "In a future iteration of GitHub Copilot I expect it to check the errors in CI and automatically propose a fix.\r\n\r\nI just did this manually: copy pasting the error back, asking for a fix, the fix was correct, I made the commit, push etc... \r\n\r\nIt could be automated with me still in charge to dismiss or accept.\r\n",
+				"date_published": "2025-01-10T15:14:20+01:00",
+				"url": "https://micro.andreagrandi.it/2025/01/10/github-copilot/",
+				"tags": ["Tech"]
+			},
+			{
+				"id": "http://andreagrandi.micro.blog/2025/01/10/renewed-blocker-subscription-for-another/",
+				"title": "1Blocker",
+				"content_html": "<p>Renewed 1Blocker subscription for another year.</p>\n<p>I think I missed the opportunity to purchase a discounted life time plan because I saw a few days ago the price was around 36€ and now it’s <strong>~45€</strong> 😕</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Renewed 1Blocker subscription for another year. \n\nI think I missed the opportunity to purchase a discounted life time plan because I saw a few days ago the price was around 36€ and now it’s **~45€** 😕\n\n<img src=\"uploads/2025/image.png\" width=\"416\" height=\"600\" alt=\"\">\n",
+				"date_published": "2025-01-10T14:43:42+01:00",
+				"url": "https://micro.andreagrandi.it/2025/01/10/renewed-blocker-subscription-for-another/"
+			},
+			{
+				"id": "http://andreagrandi.micro.blog/2025/01/10/breathable-app-and-watch-duty/",
+				"title": "Breathable app and Watch Duty",
+				"content_html": "<p>In case anyone needs, the <strong><a href=\"https://apps.apple.com/us/app/breathable-air-quality-widget/id1536296487\">Breathable</a></strong> app has been made <strong>free</strong> for life.</p>\n<!-- raw HTML omitted -->\n<p>On a side note, if you need to keep an eye on <strong>LA fires</strong>, I suggest using <strong><a href=\"https://app.watchduty.org\">Watch Duty</a></strong>.</p>\n",
+				"content_text": "In case anyone needs, the **[Breathable](https://apps.apple.com/us/app/breathable-air-quality-widget/id1536296487)** app has been made **free** for life.\r\n\r\n<blockquote class=\"quoteback\" data-author=\"Jarrod Blundy\" data-avatar=\"https://micro.blog/jarrod/avatar.jpg\" cite=\"https://jb.heydingus.net/2025/01/09/spread-the-word-developer-garrett.html\"><p>😮‍💨 Spread the word! Developer Garrett Murray has made <a href=\"https://apps.apple.com/us/app/breathable-air-quality-widget/id1536296487\">Breathable</a>, his air quality index tracker with excellent widgets, <a href=\"https://www.threads.net/@garrettmurray/post/DEnU-sXvhPz\">free of charge, forever</a>:</p>\r\n<blockquote>\r\n<p>In light of the awful fires and air quality in Los Angeles, I’ve made Breathable free and app will remain free permanently. I charged for the app prior only so I could donate the proceeds to climate change charities, but paying Apple 15% for that privilege is silly. <a href=\"https://breathable.app\">breathable.app</a></p>\r\n</blockquote>\r\n<p>(<a href=\"https://daringfireball.net/linked/2025/01/09/breathable-free\">Via <em>Daring Fireball</em></a>)</p>\r\n<footer>Jarrod Blundy <cite><a href=\"https://jb.heydingus.net/2025/01/09/spread-the-word-developer-garrett.html\" class=\"u-in-reply-to\">https://jb.heydingus.net/2025/01/09/spread-the-word-developer-garrett.html</a></cite></footer></blockquote><script src=\"https://cdn.micro.blog/quoteback.js\"></script>\r\n\r\nOn a side note, if you need to keep an eye on **LA fires**, I suggest using **[Watch Duty](https://app.watchduty.org)**.\r\n",
+				"date_published": "2025-01-10T07:46:21+01:00",
+				"url": "https://micro.andreagrandi.it/2025/01/10/breathable-app-and-watch-duty/",
+				"tags": ["Tech"]
+			},
+			{
+				"id": "http://andreagrandi.micro.blog/2025/01/08/fosdem-junior/",
+				"title": "FOSDEM Junior",
+				"content_html": "<p>If you are planning to attend <strong>FOSDEM</strong> and you have kids, it looks like you may have a valid option this year: <a href=\"https://fosdem.org/2025/news/2025-01-08-junior/\">https://fosdem.org/2025/news/2025-01-08-junior/</a></p>\n<pre tabindex=\"0\"><code>FOSDEM Junior is a collaboration between FOSDEM, Code Club, CoderDojo, developers, and volunteers to organize workshops and activities for children during the FOSDEM weekend.\r\n</code></pre>",
+				"content_text": "If you are planning to attend **FOSDEM** and you have kids, it looks like you may have a valid option this year: [https://fosdem.org/2025/news/2025-01-08-junior/](https://fosdem.org/2025/news/2025-01-08-junior/)\r\n\r\n```\r\nFOSDEM Junior is a collaboration between FOSDEM, Code Club, CoderDojo, developers, and volunteers to organize workshops and activities for children during the FOSDEM weekend.\r\n```\n",
+				"date_published": "2025-01-08T22:24:55+01:00",
+				"url": "https://micro.andreagrandi.it/2025/01/08/fosdem-junior/"
+			},
+			{
+				"id": "http://andreagrandi.micro.blog/2025/01/08/microblog-categories/",
+				"title": "Micro.blog categories",
+				"content_html": "<p>I just found out about these micro.blog categories <a href=\"https://help.micro.blog/t/emoji-in-discover/34\">help.micro.blog/t/emoji-i&hellip;</a> to help users discovering content. I&rsquo;m wondering if &ldquo;Tech&rdquo; has been left out on purpose.</p>\n<p>I found this very old post from <a href=\"https://micro.blog/manton\">@manton</a> <a href=\"https://www.manton.org/2018/01/09/books-on-microblog.html\">www.manton.org/2018/01/0&hellip;</a> but it doesn&rsquo;t mention anything about it.</p>\n",
+				"content_text": "I just found out about these micro.blog categories [help.micro.blog/t/emoji-i...](https://help.micro.blog/t/emoji-in-discover/34) to help users discovering content. I'm wondering if \"Tech\" has been left out on purpose.\r\n\r\nI found this very old post from [@manton](https://micro.blog/manton) [www.manton.org/2018/01/0...](https://www.manton.org/2018/01/09/books-on-microblog.html) but it doesn't mention anything about it.\n",
+				"date_published": "2025-01-08T07:59:46+01:00",
+				"url": "https://micro.andreagrandi.it/2025/01/08/microblog-categories/",
+				"tags": ["Tech"]
+			},
+			{
+				"id": "http://andreagrandi.micro.blog/2025/01/07/back-to-work-after-nearly/",
+				"title": "Back to work 🥲",
+				"content_html": "<p>After nearly 3 weeks off, I&rsquo;m finally back to work. Weather is awful and it won&rsquo;t be easy to manage my puppy (<a href=\"https://www.andreagrandi.it/posts/welcome-fulvio/\">I recently got a Basset Hound!</a>) because he won&rsquo;t stay quiet inside the house.</p>\n<p>Let&rsquo;s see how it goes!</p>\n",
+				"content_text": "After nearly 3 weeks off, I'm finally back to work. Weather is awful and it won't be easy to manage my puppy ([I recently got a Basset Hound!](https://www.andreagrandi.it/posts/welcome-fulvio/)) because he won't stay quiet inside the house.\n\nLet's see how it goes!\n",
+				"date_published": "2025-01-07T11:13:09+01:00",
+				"url": "https://micro.andreagrandi.it/2025/01/07/back-to-work-after-nearly/",
+				"tags": ["Personal"]
+			},
+			{
+				"id": "http://andreagrandi.micro.blog/2025/01/06/welcome-back-to-me/",
+				"title": "Welcome back... to me 😅",
+				"content_html": "<p>After finding out about the new <strong>1$/month</strong> plan, I couldn&rsquo;t resist and finally decided to <strong>subscribe</strong>.</p>\n<p>There are a lot of things I usually want to post and which are too small to justify the effort of creating a blog post on my main blog, but they are too big to fit a Mastodon (or Bluesky post), so I think I will start using this micro blog much more!</p>\n<p>Happy New Year to everyone 🎉</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "After finding out about the new **1$/month** plan, I couldn't resist and finally decided to **subscribe**. \r\n\r\nThere are a lot of things I usually want to post and which are too small to justify the effort of creating a blog post on my main blog, but they are too big to fit a Mastodon (or Bluesky post), so I think I will start using this micro blog much more!\r\n\r\nHappy New Year to everyone 🎉\n\n<img src=\"https://micro.andreagrandi.it/uploads/2025/screenshot-2025-01-06-at-08.43.15.png\" width=\"600\" height=\"235\" alt=\"\">\n",
+				"date_published": "2025-01-06T10:01:41+01:00",
+				"url": "https://micro.andreagrandi.it/2025/01/06/welcome-back-to-me/"
+			},
+			{
+				"id": "http://andreagrandi.micro.blog/2024/05/07/second-day-in-maiorca/",
+				"title": "Second day in Maiorca",
+				"content_html": "<p><img src=\"https://micro.andreagrandi.it/uploads/2024/breakfast.jpeg\" alt=\"\"></p>\n<p>The second day in Maiorca (I&rsquo;m here for my company annual retreat) started with a very nice breakfast with a wonderful view on the sea.</p>\n<p>We had a few sessions during the day (unfortunately I can&rsquo;t talk about them) followed by some relaxing time next to the swimming pool.</p>\n<p>The weather is nice and in my spare time I&rsquo;m keeping an eye on the last few things being prepared for the next PyCon Italy.</p>\n",
+				"content_text": "![](https://micro.andreagrandi.it/uploads/2024/breakfast.jpeg)\n\nThe second day in Maiorca (I'm here for my company annual retreat) started with a very nice breakfast with a wonderful view on the sea.\n\nWe had a few sessions during the day (unfortunately I can't talk about them) followed by some relaxing time next to the swimming pool.\n\nThe weather is nice and in my spare time I'm keeping an eye on the last few things being prepared for the next PyCon Italy.\n",
+				"date_published": "2024-05-07T17:23:22+01:00",
+				"url": "https://micro.andreagrandi.it/2024/05/07/second-day-in-maiorca/"
+			}
+	]
+}
