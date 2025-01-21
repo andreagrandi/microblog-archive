@@ -7,6 +7,67 @@
 	"items": [
 		
 			{
+				"id": "http://andreagrandi.micro.blog/2025/01/21/self-note-if-you-want/",
+				"title": "Carbon: generating nice terminal images",
+				"content_html": "<p>Self note: if you want to quickly generate images of terminal containing commands or short code snippets, you can use <strong>Carbon</strong></p>\n<p><a href=\"https://carbon.now.sh\">carbon.now.sh</a></p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Self note: if you want to quickly generate images of terminal containing commands or short code snippets, you can use **Carbon** \n\n[carbon.now.sh](https://carbon.now.sh)\n\n\n\n\n<img src=\"uploads/2025/carbon.png\" width=\"600\" height=\"234\" alt=\"\">\n",
+				"date_published": "2025-01-21T08:01:21+01:00",
+				"url": "https://micro.andreagrandi.it/2025/01/21/self-note-if-you-want/",
+				"tags": ["Development ","Tech"]
+			},
+			{
+				"id": "http://andreagrandi.micro.blog/2025/01/16/so-its-coming-nintendo-switch/",
+				"title": "Nintendo Switch 2 is official!",
+				"content_html": "<p>So, it&rsquo;s coming! Nintendo Switch 2 will be announced on April 2nd (I see why they skipped April 1st) <a href=\"https://www.youtube.com/watch?v=WxLUf2kRQRE\">www.youtube.com/watch</a></p>\n",
+				"content_text": "So, it's coming! Nintendo Switch 2 will be announced on April 2nd (I see why they skipped April 1st) [www.youtube.com/watch](https://www.youtube.com/watch?v=WxLUf2kRQRE)\n\n",
+				"date_published": "2025-01-16T14:28:03+01:00",
+				"url": "https://micro.andreagrandi.it/2025/01/16/so-its-coming-nintendo-switch/",
+				"tags": ["Tech"]
+			},
+			{
+				"id": "http://andreagrandi.micro.blog/2025/01/15/github-copilot-edit/",
+				"title": "This time it wasn't AI fault",
+				"content_html": "<p>In the last couple of days I finally had the chance to test <strong>Copilot Edit</strong> (the multi file editing feature).\nI made sure to write proper and detailed specifications and I asked it to write the implementation.</p>\n<p>The <strong>good</strong> news? It was able to get it right at the first attempt and I was really impressed. Once the implementation was done, I asked it to also fix the two test files involved: it did it right 🎉</p>\n<p>The <strong>bad</strong> news? Thanks to my colleague who did the code review, I realised that I had asked the wrong thing 😭</p>\n<p>The thing I had to implement required way more changes than what I had asked for. I quickly reworked and simplified the code by myself this time, but <strong>for once it wasn&rsquo;t AI fault</strong>!</p>\n",
+				"content_text": "In the last couple of days I finally had the chance to test **Copilot Edit** (the multi file editing feature).\nI made sure to write proper and detailed specifications and I asked it to write the implementation.\n\nThe **good** news? It was able to get it right at the first attempt and I was really impressed. Once the implementation was done, I asked it to also fix the two test files involved: it did it right 🎉\n\nThe **bad** news? Thanks to my colleague who did the code review, I realised that I had asked the wrong thing 😭\n\nThe thing I had to implement required way more changes than what I had asked for. I quickly reworked and simplified the code by myself this time, but **for once it wasn't AI fault**!\n",
+				"date_published": "2025-01-15T18:08:03+01:00",
+				"url": "https://micro.andreagrandi.it/2025/01/15/github-copilot-edit/",
+				"tags": ["Development ","Tech"]
+			},
+			{
+				"id": "http://andreagrandi.micro.blog/2025/01/14/using-github-copilot-as-rubber/",
+				"title": "GitHub Copilot",
+				"content_html": "<p>Using <strong>GitHub Copilot</strong> as rubber duck, pairing buddy, to automate boring tasks, giving it clear and precise instructions and always verifying the results  👍</p>\n<p>Expecting it will do your work for you, with little or no guidance 👎</p>\n<p>Thanks for attending my talk</p>\n",
+				"content_text": "Using **GitHub Copilot** as rubber duck, pairing buddy, to automate boring tasks, giving it clear and precise instructions and always verifying the results  👍\n\nExpecting it will do your work for you, with little or no guidance 👎\n\nThanks for attending my talk\n",
+				"date_published": "2025-01-14T10:50:44+01:00",
+				"url": "https://micro.andreagrandi.it/2025/01/14/using-github-copilot-as-rubber/",
+				"tags": ["Development ","Tech"]
+			},
+			{
+				"id": "http://andreagrandi.micro.blog/2025/01/12/stats-on-microblog/",
+				"title": "Stats on Micro.blog",
+				"content_html": "<p>I&rsquo;ve enabled <strong>stats</strong> on my Micro.blog account.</p>\n<p>Stats are not included in Micro.blog so I&rsquo;m <strong>self hosting</strong> them (no personal information is being collected and this data is never leaving the host) using <strong><a href=\"https://umami.is\">Umami</a></strong>.</p>\n<p>I don&rsquo;t really care about &ldquo;numbers&rdquo; (I do appreciate comments and interactions a lot!) but I&rsquo;m curious to see if people are reading what I post or not.</p>\n<p>You can read on my main blog how I&rsquo;m doing that: <a href=\"https://www.andreagrandi.it/posts/self-hosting-analytics-at-zero-cost/\">https://www.andreagrandi.it/posts/self-hosting-analytics-at-zero-cost/</a></p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I've enabled **stats** on my Micro.blog account. \n\nStats are not included in Micro.blog so I'm **self hosting** them (no personal information is being collected and this data is never leaving the host) using **[Umami](https://umami.is)**.\n\nI don't really care about \"numbers\" (I do appreciate comments and interactions a lot!) but I'm curious to see if people are reading what I post or not.\n\nYou can read on my main blog how I'm doing that: [https://www.andreagrandi.it/posts/self-hosting-analytics-at-zero-cost/](https://www.andreagrandi.it/posts/self-hosting-analytics-at-zero-cost/)\n\n\n\n<img src=\"uploads/2025/screenshot-2025-01-12-at-20.11.11.png\" width=\"600\" height=\"391\" alt=\"\">\n",
+				"date_published": "2025-01-12T20:23:09+01:00",
+				"url": "https://micro.andreagrandi.it/2025/01/12/stats-on-microblog/",
+				"tags": ["Tech"]
+			},
+			{
+				"id": "http://andreagrandi.micro.blog/2025/01/12/not-sure-how-and-why/",
+				"title": "The Bat",
+				"content_html": "<p>Not sure how and why, but I entirely missed the first book in the Harry Hole&rsquo;s series from Jo Nesbo <a href=\"https://www.goodreads.com/book/show/21435217-il-pipistrello\">www.goodreads.com/book/show&hellip;</a></p>\n<p>Catching up now!</p>\n",
+				"content_text": "Not sure how and why, but I entirely missed the first book in the Harry Hole's series from Jo Nesbo [www.goodreads.com/book/show...](https://www.goodreads.com/book/show/21435217-il-pipistrello)\n\nCatching up now!\n",
+				"date_published": "2025-01-12T10:37:05+01:00",
+				"url": "https://micro.andreagrandi.it/2025/01/12/not-sure-how-and-why/"
+			},
+			{
+				"id": "http://andreagrandi.micro.blog/2025/01/12/waking-up-with-a-broken/",
+				"title": "Waking up with a broken backup system",
+				"content_html": "<p>Starting the day and realising my <strong>backup</strong> system has been broken for the last 4 days 😵</p>\n<p>Error reported to <strong>vorta</strong> people <a href=\"https://github.com/borgbase/vorta/issues/2188\">github.com/borgbase/&hellip;</a></p>\n<p>Then realising something broke the borgbackup-fuse installation on <strong>homebrew</strong></p>\n<p>Uninstall + install fixed it 😮‍💨</p>\n",
+				"content_text": "Starting the day and realising my **backup** system has been broken for the last 4 days 😵\n\nError reported to **vorta** people [github.com/borgbase/...](https://github.com/borgbase/vorta/issues/2188)\n\nThen realising something broke the borgbackup-fuse installation on **homebrew** \n\nUninstall + install fixed it 😮‍💨\n",
+				"date_published": "2025-01-12T08:33:39+01:00",
+				"url": "https://micro.andreagrandi.it/2025/01/12/waking-up-with-a-broken/"
+			},
+			{
 				"id": "http://andreagrandi.micro.blog/2025/01/11/reading-stuff-and-training-dog/",
 				"title": "Reading stuff and training dog",
 				"content_html": "<p>Trying to brush up a couple of things today:</p>\n<ul>\n<li>Watching a few existing talks about a subject I would like to <strong>give a talk</strong> about (no spoilers yet!)</li>\n<li>Reading documentation about <strong>VSCode</strong> extensions for an idea I have (at least I found a good name!)</li>\n</ul>\n<p>All of this while I try to relax after a nice day where I also <strong>trained my dog</strong> a little bit 🐶</p>\n",
@@ -28,7 +89,7 @@
 				"id": "http://andreagrandi.micro.blog/2025/01/10/renewed-blocker-subscription-for-another/",
 				"title": "1Blocker",
 				"content_html": "<p>Renewed 1Blocker subscription for another year.</p>\n<p>I think I missed the opportunity to purchase a discounted life time plan because I saw a few days ago the price was around 36€ and now it’s <strong>~45€</strong> 😕</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Renewed 1Blocker subscription for another year. \n\nI think I missed the opportunity to purchase a discounted life time plan because I saw a few days ago the price was around 36€ and now it’s **~45€** 😕\n\n<img src=\"uploads/2025/image.png\" width=\"416\" height=\"600\" alt=\"\">\n",
+				"content_text": "Renewed 1Blocker subscription for another year. \n\nI think I missed the opportunity to purchase a discounted life time plan because I saw a few days ago the price was around 36€ and now it’s **~45€** 😕\n\n<img src=\"https://micro.andreagrandi.it/uploads/2025/image.png\" width=\"416\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-01-10T14:43:42+01:00",
 				"url": "https://micro.andreagrandi.it/2025/01/10/renewed-blocker-subscription-for-another/"
 			},
