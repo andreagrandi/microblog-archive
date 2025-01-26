@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://andreagrandi.micro.blog/2025/01/26/how-to-workaround-ollama-models/",
+				"title": "How to workaround Ollama models pull issues",
+				"content_html": "<p>In the past couple of days I was having this annoying <strong>issue</strong> while trying to <strong>pull a model from Ollama</strong>: I was running the command <code>ollama pull deepseek-r1:8b</code>, it was downloading something like 4-5% of the model and then the <strong>connection was reset</strong>, the client was “crashing” and <strong>it always restarted from 0%</strong>.</p>\n<p>It looks like I wasn’t alone: <a href=\"https://github.com/ollama/ollama/issues/8406\">https://github.com/ollama/ollama/issues/8406</a></p>\n<p>Here is the solution: <a href=\"https://www.andreagrandi.it/posts/how-to-workaround-ollama-pull-issues/\">https://www.andreagrandi.it/posts/how-to-workaround-ollama-pull-issues/</a></p>\n",
+				"content_text": "In the past couple of days I was having this annoying **issue** while trying to **pull a model from Ollama**: I was running the command `ollama pull deepseek-r1:8b`, it was downloading something like 4-5% of the model and then the **connection was reset**, the client was “crashing” and **it always restarted from 0%**.\r\n\r\nIt looks like I wasn’t alone: [https://github.com/ollama/ollama/issues/8406](https://github.com/ollama/ollama/issues/8406)\r\n\r\nHere is the solution: [https://www.andreagrandi.it/posts/how-to-workaround-ollama-pull-issues/](https://www.andreagrandi.it/posts/how-to-workaround-ollama-pull-issues/)\r\n",
+				"date_published": "2025-01-26T16:00:05+01:00",
+				"url": "https://micro.andreagrandi.it/2025/01/26/how-to-workaround-ollama-models/",
+				"tags": ["Development "]
+			},
+			{
 				"id": "http://andreagrandi.micro.blog/2025/01/21/self-note-if-you-want/",
 				"title": "Carbon: generating nice terminal images",
 				"content_html": "<p>Self note: if you want to quickly generate images of terminal containing commands or short code snippets, you can use <strong>Carbon</strong></p>\n<p><a href=\"https://carbon.now.sh\">carbon.now.sh</a></p>\n<!-- raw HTML omitted -->\n",
