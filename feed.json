@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://andreagrandi.micro.blog/2025/02/10/superb-owl/",
+				"title": "Superb Owl",
+				"content_html": "<p>Since everyone seems to be talking about it, here is another superb owl. I hope you enjoy it 😃</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Since everyone seems to be talking about it, here is another superb owl. I hope you enjoy it 😃\n\n<img src=\"uploads/2025/image.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"date_published": "2025-02-10T07:59:25+01:00",
+				"url": "https://micro.andreagrandi.it/2025/02/10/superb-owl/"
+			},
+			{
 				"id": "http://andreagrandi.micro.blog/2025/01/26/how-to-workaround-ollama-models/",
 				"title": "How to workaround Ollama models pull issues",
 				"content_html": "<p>In the past couple of days I was having this annoying <strong>issue</strong> while trying to <strong>pull a model from Ollama</strong>: I was running the command <code>ollama pull deepseek-r1:8b</code>, it was downloading something like 4-5% of the model and then the <strong>connection was reset</strong>, the client was “crashing” and <strong>it always restarted from 0%</strong>.</p>\n<p>It looks like I wasn’t alone: <a href=\"https://github.com/ollama/ollama/issues/8406\">https://github.com/ollama/ollama/issues/8406</a></p>\n<p>Here is the solution: <a href=\"https://www.andreagrandi.it/posts/how-to-workaround-ollama-pull-issues/\">https://www.andreagrandi.it/posts/how-to-workaround-ollama-pull-issues/</a></p>\n",
@@ -98,7 +106,7 @@
 				"id": "http://andreagrandi.micro.blog/2025/01/10/renewed-blocker-subscription-for-another/",
 				"title": "1Blocker",
 				"content_html": "<p>Renewed 1Blocker subscription for another year.</p>\n<p>I think I missed the opportunity to purchase a discounted life time plan because I saw a few days ago the price was around 36€ and now it’s <strong>~45€</strong> 😕</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Renewed 1Blocker subscription for another year. \n\nI think I missed the opportunity to purchase a discounted life time plan because I saw a few days ago the price was around 36€ and now it’s **~45€** 😕\n\n<img src=\"https://micro.andreagrandi.it/uploads/2025/image.png\" width=\"416\" height=\"600\" alt=\"\">\n",
+				"content_text": "Renewed 1Blocker subscription for another year. \n\nI think I missed the opportunity to purchase a discounted life time plan because I saw a few days ago the price was around 36€ and now it’s **~45€** 😕\n\n<img src=\"uploads/2025/image.png\" width=\"416\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-01-10T14:43:42+01:00",
 				"url": "https://micro.andreagrandi.it/2025/01/10/renewed-blocker-subscription-for-another/"
 			},
@@ -141,7 +149,7 @@
 				"id": "http://andreagrandi.micro.blog/2025/01/06/welcome-back-to-me/",
 				"title": "Welcome back... to me 😅",
 				"content_html": "<p>After finding out about the new <strong>1$/month</strong> plan, I couldn&rsquo;t resist and finally decided to <strong>subscribe</strong>.</p>\n<p>There are a lot of things I usually want to post and which are too small to justify the effort of creating a blog post on my main blog, but they are too big to fit a Mastodon (or Bluesky post), so I think I will start using this micro blog much more!</p>\n<p>Happy New Year to everyone 🎉</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "After finding out about the new **1$/month** plan, I couldn't resist and finally decided to **subscribe**. \r\n\r\nThere are a lot of things I usually want to post and which are too small to justify the effort of creating a blog post on my main blog, but they are too big to fit a Mastodon (or Bluesky post), so I think I will start using this micro blog much more!\r\n\r\nHappy New Year to everyone 🎉\n\n<img src=\"https://micro.andreagrandi.it/uploads/2025/screenshot-2025-01-06-at-08.43.15.png\" width=\"600\" height=\"235\" alt=\"\">\n",
+				"content_text": "After finding out about the new **1$/month** plan, I couldn't resist and finally decided to **subscribe**. \r\n\r\nThere are a lot of things I usually want to post and which are too small to justify the effort of creating a blog post on my main blog, but they are too big to fit a Mastodon (or Bluesky post), so I think I will start using this micro blog much more!\r\n\r\nHappy New Year to everyone 🎉\n\n<img src=\"uploads/2025/screenshot-2025-01-06-at-08.43.15.png\" width=\"600\" height=\"235\" alt=\"\">\n",
 				"date_published": "2025-01-06T10:01:41+01:00",
 				"url": "https://micro.andreagrandi.it/2025/01/06/welcome-back-to-me/"
 			},
