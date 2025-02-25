@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://andreagrandi.micro.blog/2025/02/25/im-loosing-interest-in-microblog/",
+				"title": "I'm loosing interest in micro.blog",
+				"content_html": "<p>I should probably write a long blog post (on my main blog) about why I lost interest in micro.blog 😕</p>\n<p>Briefly:</p>\n<ul>\n<li>editor is so annoying (see picture below where cursor is in the middle of the character)</li>\n<li>posts are too short to serve as future documentation / tutorial</li>\n<li>lack of proper Markdown editor</li>\n<li>not clear how to insert multiple images and how to alternate text with images</li>\n<li>no way to know if your posts are being read or not (I don&rsquo;t even know if people appreciate what I write&hellip; I don&rsquo;t know if they are sharing my post somewhere else)</li>\n<li>completely zero engagement (it&rsquo;s like shouting against a wall)</li>\n<li>editor is so annoying (no, not an accidental duplicate. I hate it so much and it takes me ages to write a post, especially because of the but I&rsquo;ve already explained which makes me write wrong chars)</li>\n</ul>\n<p>Putting <a href=\"https://micro.blog/manton\">@manton</a> in CC, maybe he can take some inspiration for future development.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I should probably write a long blog post (on my main blog) about why I lost interest in micro.blog 😕\r\n\r\nBriefly:\r\n\r\n- editor is so annoying (see picture below where cursor is in the middle of the character)\r\n- posts are too short to serve as future documentation / tutorial\r\n- lack of proper Markdown editor\r\n- not clear how to insert multiple images and how to alternate text with images\r\n- no way to know if your posts are being read or not (I don't even know if people appreciate what I write... I don't know if they are sharing my post somewhere else)\r\n- completely zero engagement (it's like shouting against a wall)\r\n- editor is so annoying (no, not an accidental duplicate. I hate it so much and it takes me ages to write a post, especially because of the but I've already explained which makes me write wrong chars)\r\n\r\n\r\nPutting [@manton](https://micro.blog/manton) in CC, maybe he can take some inspiration for future development.\n\n<img src=\"uploads/2025/screenshot-2025-02-25-at-10.55.55.png\" width=\"600\" height=\"228\" alt=\"\">\n",
+				"date_published": "2025-02-25T11:00:56+01:00",
+				"url": "https://micro.andreagrandi.it/2025/02/25/im-loosing-interest-in-microblog/",
+				"tags": ["Personal","Tech"]
+			},
+			{
 				"id": "http://andreagrandi.micro.blog/2025/02/10/superb-owl/",
 				"title": "Superb Owl",
 				"content_html": "<p>Since everyone seems to be talking about it, here is another superb owl. I hope you enjoy it 😃</p>\n<!-- raw HTML omitted -->\n",
