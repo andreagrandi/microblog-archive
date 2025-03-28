@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://andreagrandi.micro.blog/2025/03/28/python-dojo-pycon-italia/",
+				"title": "Python Dojo @ PyCon Italia 2025",
+				"content_html": "<p>Are you planning to attend <a href=\"https://2025.pycon.it\">PyCon Italia</a>?</p>\n<p>Would you like to join <strong>Python Dojo</strong> workshop organised by me and my friend <strong>Nicholas Tollervey</strong>?</p>\n<p>More information and registration link here <a href=\"https://2025.pycon.it/en/event/python-dojo\">https://2025.pycon.it/en/event/python-dojo</a></p>\n",
+				"content_text": "Are you planning to attend [PyCon Italia](https://2025.pycon.it)? \r\n\r\nWould you like to join **Python Dojo** workshop organised by me and my friend **Nicholas Tollervey**?\r\n\r\nMore information and registration link here [https://2025.pycon.it/en/event/python-dojo](https://2025.pycon.it/en/event/python-dojo)\r\n",
+				"date_published": "2025-03-28T17:52:08+01:00",
+				"url": "https://micro.andreagrandi.it/2025/03/28/python-dojo-pycon-italia/",
+				"tags": ["Development ","Tech"]
+			},
+			{
 				"id": "http://andreagrandi.micro.blog/2025/03/09/relax-with-fulvio/",
 				"title": "Relax with Fulvio",
 				"content_html": "<p><img src=\"https://micro.andreagrandi.it/uploads/2025/image-20250309-171345-5615825d.jpg\" alt=\"\"></p>\n",
